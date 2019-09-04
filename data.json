@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Erasmus Belgium",
+		"tags": ["letsmeet","visa","Housing"],
+		"members": 57
+	},
+	{
+		"name": "Hey Network",
+		"tags": ["Jobs","Announcements","General","Feedback"],
+		"members": 41
+	},
+	{
+		"name": "BeTech",
+		"tags": ["deals","jobBoard","fundraising","events","articles","general"],
+		"members": 19
+	},
+	{
+		"name": "Let's hang out",
+		"tags": ["let's have a drink","let's meet in Brussels","general"],
+		"members": 14
+	},
+	{
+		"name": "CryptoPick",
+		"tags": ["general"],
+		"members": 57
+	},
+	{
+		"name": "Relentless",
+		"tags": ["news","marketplace","general","cards"],
+		"members": 9
+	},
+	{
+		"name": "Crypt-Oink",
+		"tags": ["news","breeding","general","Racing"],
+		"members": 5
+	},
+	{
+		"name": "ink school",
+		"tags": ["general","code"],
+		"members": 5
+	},
+	{
+		"name": "Freenode",
+		"tags": ["general"],
+		"members": 4
+	},
+	{
+		"name": "Cryptokitties",
+		"tags": ["breeding","general"],
+		"members": 4
+	}
+]
